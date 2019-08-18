@@ -3,7 +3,7 @@
 ## Overview
 
 - Implemented a web-based collaborative code editor which supports multiple user editing simultaneously
-- Developed a web application with Angular2 for frontend, Auth0 for authentication, NodeJS for backend and MongoDB for database
+- Developed a web application with React for frontend, Auth0 for authentication, NodeJS for backend and MongoDB for database
 - Used the socket.io as the communication protocol to handle the heavy client-server communication and used ACE, as client-side source code editor
 - Built a user-code executor service in flask and execute user’s code in Docker container
 
